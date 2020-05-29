@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Workspace\CS1337\Monty Hall\main.cpp(33,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Workspace\CS1337\Monty Hall\main.cpp(51,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Monty Hall.vcxproj -> D:\Workspace\CS1337\Monty Hall\Debug\Monty Hall.exe
