@@ -4,7 +4,7 @@
 #include <cmath>
 #include <ctime>
 
-
+//experimantal
 using namespace std;
 int creatRand();
 int creatRand2();
